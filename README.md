@@ -1,0 +1,3 @@
+``` shell
+nix-env -if .
+```
